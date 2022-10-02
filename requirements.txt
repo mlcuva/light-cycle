@@ -1,0 +1,6 @@
+# pyvirtualdisplay
+# tf-agents
+tensorflow
+# IPython
+ray[rllib]
+gym[atari]
